@@ -1,0 +1,8 @@
+name: PlayerPortal
+version: ${project.version}
+main: me.eypiper.playerportal.PlayerPortal
+api-version: 1.16
+prefix: PlayerPortal
+authors: [eyPiper]
+description: Add wait  for portal use in creative
+website: https://www.spigotmc.org/members/eypiper.746034/
